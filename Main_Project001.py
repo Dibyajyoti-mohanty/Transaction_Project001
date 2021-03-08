@@ -896,13 +896,7 @@ def item_cust_detail(i_name,c_name):
     print("Total ::                                                                    {:>4} {:>6}".format(q_sum,s_amount))
     
 
-
-col_sum('Sahil')
-
-
-cu_name_id('Sahil')
+main_tr_db()
 
 
-item_name_code('1001')
-
-item_wise_amount('apple')
+item_wise_summary()
